@@ -2,10 +2,10 @@
 
 :root {
 	--dark-color-a: #1e1f29;
-	--dark-color-b: #555764;
+	--dark-color-b: #a51818;
 	--light-color: #e6e9ff;
-	--success-color: #3c413c;
-	--error-color: #704846;
+	--success-color: #20ca20;
+	--error-color: #6b0c07;
 }
 
 * {
@@ -13,12 +13,14 @@
 	margin: 0;
 	padding: 0;
 }
-
-body {
+body, html {
 	font-family: 'Roboto', sans-serif;
-	font-size: 16px;
-	background: var(--light-color);
-	margin: 20px;
+	background-image: url(/pizza2.jpg);
+height: 100%;
+background-position: center;
+background-size: cover;
+height: 100%;
+margin: 0;
 }
 
 ul {

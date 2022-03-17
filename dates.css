@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(105, 162, 196);
+}
+.date {
+    text-align: center;
+    margin-top: 2%;
+    background-color: rgb(43, 97, 158);
+    color: aliceblue;
+    font-family: "Space Grotesk";
+    font-size: 200px;
+}
+
+img {
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(30, 76, 145);
+    color: aliceblue;
+    font-family: "Space Grotesk";
+    font-size: 200px;
+    border-radius: 50%;
+    box-shadow: 
+    0 0 20px #0e0f0f,
+    10px 0 80px rgb(143, 145, 145),
+    10px 0 80px rgb(15, 15, 15);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name {
+    text-align: center;
+    margin-top: 100px;
+    background-color: rgb(43, 97, 158);
+    color: aliceblue;
+    font-family: "Space Grotesk";
+    font-size: 200px;
+}
+
+.links {
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(29, 95, 172);
+    color: aliceblue;
+    font-weight: 900;
+    font-family: "Space Grotesk";
+    font-size: 120px;
+}
